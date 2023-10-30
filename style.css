@@ -1,0 +1,53 @@
+body {
+    background-color: gray;  
+}
+
+
+/* Styling the Title and giving
+shadow to the title */
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+
+/* Setting width and display
+type of image */
+img {
+    display: inline-block;
+    width: 50%;
+    padding-left: 400px;
+}
+
+/* Setting font color and font
+size of the image-caption */
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+}
+
+/* Styling the content of the page like-
+padding, font-size, font color etc.*/
+div#tribute-data {
+    background-color: cadetblue;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 200px;
+    margin-top: 50px;
+}
+
+/* Styling the title of the content */
+h1.title-APJ {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+/* Styling the link provided at the end */
+#tribute-link {
+    text-decoration: none;
+    color: black;
+    
+}
